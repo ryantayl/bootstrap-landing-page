@@ -1,2 +1,2 @@
 # bootstrap-landing-page
-simply practice landing page
+simple practice landing page
